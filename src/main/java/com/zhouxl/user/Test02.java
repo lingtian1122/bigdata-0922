@@ -5,10 +5,8 @@ package com.zhouxl.user;
  * <p>
  * com.zhouxl.user
  */
-public class Test {
-
+public class Test02 {
     public static void main(String[] args) {
-
-        System.out.println("hello world 007");
+        System.out.println("hello huashan");
     }
 }
